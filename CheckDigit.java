@@ -24,7 +24,7 @@ public class CheckDigit
   
   
   /** Returns true if numWithCheckDigit is valid, or false
-  * otherwise, as described in part (b).
+  * otherwise, as described in part (a) [part (b) in original].
   * Precondition: The number of digits in numWithCheckDigit
   * is between two and seven, inclusive.
   * * numWithCheckDigit >= 0
@@ -32,7 +32,8 @@ public class CheckDigit
  
   public static boolean isValid(int numWithCheckDigit)
   {
-      /* to be implemented in part (b) */
+      /* to be implemented in part (a) */
+      /* (part (b) in the original question  */
       
       // Your code goes here
       return false;    // dummy code so that it compiles
